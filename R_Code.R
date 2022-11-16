@@ -173,3 +173,12 @@ plays %>%
   summarize(mean = mean(yardsToGo)) %>%
   arrange(desc(mean))
 
+
+## Practice using dplyr
+
+# Say we want to find the average penalty yardage gained by defensive pass interference
+
+
+
+
+# What if we wanted to figure out if there's a relationship between the number of defenders in the box and a successful play?
